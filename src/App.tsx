@@ -1,6 +1,5 @@
-import { TabContent } from 'react-bootstrap'
 import Header from './layout/Header'
-import TabController from './layout/TabController'
+import TabContent from './layout/TabContent'
 
 
 function App() {
@@ -8,7 +7,6 @@ function App() {
     <>
       <Header/>
       <TabContent/>
-      <TabController/>
     </>
   )
 }
