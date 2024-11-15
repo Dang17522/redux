@@ -1,5 +1,5 @@
-import Header from './layout/Header'
-import TabContent from './layout/TabContent'
+import Header from './components/Header'
+import TabContent from './components/TabContent'
 
 
 function App() {
